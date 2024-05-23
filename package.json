@@ -1,0 +1,16 @@
+{
+  "name": "primer-server",
+  "version": "1.0.0",
+  "description": "Clase donde aprendemos a crear nuestro primer poryecto de node y el primer servidor en express.",
+  "main": "index.js",  
+  "scripts": {
+    "start": "node ./servidor.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
